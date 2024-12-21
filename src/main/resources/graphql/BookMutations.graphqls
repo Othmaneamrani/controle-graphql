@@ -1,3 +1,3 @@
 type Mutation{
-    saveBook(book: BookRequest ): Book
+    saveBook(bookDTO: BookRequest ): Book
 }
