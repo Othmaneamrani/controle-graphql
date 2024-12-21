@@ -1,0 +1,7 @@
+input BookRequest{
+    title : String
+    author : String
+    type : String
+    price : Float
+    ISBN : String
+}
